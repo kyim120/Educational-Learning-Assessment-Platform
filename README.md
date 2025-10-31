@@ -144,6 +144,7 @@ The system will be a web-based platform designed to be responsive and accessible
 | Testing and Optimization         | 15,000 PKR |
 | Deployment and Configuration     | 10,000 PKR |
 
+### Note: First month of hosting and server setup is provided free of cost. After the first month, standard hosting charges will apply based on the selected server plan.
 ---
 
 ## 9. Additional Cost for MCQ Options Expansion
